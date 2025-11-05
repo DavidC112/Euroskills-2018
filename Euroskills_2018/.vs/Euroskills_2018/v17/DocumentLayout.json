@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|c:\\david\\code\\13\\web_api\\feladat\\euroskills-2018\\euroskills_2018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|c:\\david\\code\\13\\web_api\\feladat\\euroskills-2018\\euroskills_2018\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\David\\Code\\13\\Web_API\\Vizevezetek_Szerelok\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|c:\\david\\code\\13\\web_api\\feladat\\euroskills-2018\\euroskills_2018\\data\\szamkadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|solutionrelative:data\\szamkadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|c:\\david\\code\\13\\web_api\\feladat\\euroskills-2018\\euroskills_2018\\models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|solutionrelative:models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +37,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\Vizevezetek_Szerelok\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Vizevezetek_Szerelok\\Program.cs",
+              "ToolTip": "C:\\David\\Code\\13\\Web_API\\Vizevezetek_Szerelok\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Vizevezetek_Szerelok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:02:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:02:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T12:00:47.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "szamkaDbContext.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Data\\szamkaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\szamkaDbContext.cs",
+              "ToolTip": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Data\\szamkaDbContext.cs",
+              "RelativeToolTip": "Data\\szamkaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:59:38.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Versenyzo.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Models\\Versenyzo.cs",
               "RelativeDocumentMoniker": "Models\\Versenyzo.cs",
@@ -34,12 +101,11 @@
               "RelativeToolTip": "Models\\Versenyzo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:45:24.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T11:45:24.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Orszag.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Models\\Orszag.cs",
               "RelativeDocumentMoniker": "Models\\Orszag.cs",
@@ -47,18 +113,17 @@
               "RelativeToolTip": "Models\\Orszag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:44:58.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T11:44:58.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Szakma.cs",
               "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Models\\Szakma.cs",
               "RelativeDocumentMoniker": "Models\\Szakma.cs",
               "ToolTip": "C:\\David\\Code\\13\\Web_API\\feladat\\Euroskills-2018\\Euroskills_2018\\Models\\Szakma.cs",
               "RelativeToolTip": "Models\\Szakma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T11:44:23.315Z",
               "EditorCaption": ""

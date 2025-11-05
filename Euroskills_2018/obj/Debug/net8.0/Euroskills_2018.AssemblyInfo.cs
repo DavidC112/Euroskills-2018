@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b4438171-313d-44a9-be90-b6462ca546ee")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Euroskills_2018")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eda9c7407c95544742a1f0ba257d992c0dfd9a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Euroskills_2018")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Euroskills_2018")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

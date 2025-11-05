@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Euroskills_2018.props" />
+</Project>
