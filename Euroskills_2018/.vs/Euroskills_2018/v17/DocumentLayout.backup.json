@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\David\\Code\\13\\Web_API\\Euroskills_2018\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|c:\\david\\code\\13\\web_api\\euroskills_2018\\models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|solutionrelative:models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|c:\\david\\code\\13\\web_api\\euroskills_2018\\models\\orszag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|solutionrelative:models\\orszag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|c:\\david\\code\\13\\web_api\\euroskills_2018\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5F497-B662-4842-BD0F-09A09D96426B}|Euroskills_2018.csproj|solutionrelative:models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\Euroskills_2018\\Models\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Models\\Versenyzo.cs",
+              "ToolTip": "C:\\David\\Code\\13\\Web_API\\Euroskills_2018\\Models\\Versenyzo.cs",
+              "RelativeToolTip": "Models\\Versenyzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:45:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orszag.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\Euroskills_2018\\Models\\Orszag.cs",
+              "RelativeDocumentMoniker": "Models\\Orszag.cs",
+              "ToolTip": "C:\\David\\Code\\13\\Web_API\\Euroskills_2018\\Models\\Orszag.cs",
+              "RelativeToolTip": "Models\\Orszag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:44:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Szakma.cs",
+              "DocumentMoniker": "C:\\David\\Code\\13\\Web_API\\Euroskills_2018\\Models\\Szakma.cs",
+              "RelativeDocumentMoniker": "Models\\Szakma.cs",
+              "ToolTip": "C:\\David\\Code\\13\\Web_API\\Euroskills_2018\\Models\\Szakma.cs",
+              "RelativeToolTip": "Models\\Szakma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:44:23.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
